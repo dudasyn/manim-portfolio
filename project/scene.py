@@ -1,7 +1,6 @@
 from manim import *
 
-class CreateCircle(Scene):
+class Formula(Scene):
     def construct(self):
-        circle = Circle()
-        circle.set_fill(PINK,opacity=0.5)
-        self.play(Create(circle))
+        t = MathTex(r"\int_a^b f'(x) dx = f(b)- f(a)")
+        self.add(t)
