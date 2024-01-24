@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/duda/manim-portfolio/project/media/videos/scene/480p15/partial_movie_files/CountingScene/1185818338_123554531_1808604628.mp4'
-file 'file:/home/duda/manim-portfolio/project/media/videos/scene/480p15/partial_movie_files/CountingScene/624642324_3157310229_2603374163.mp4'
-file 'file:/home/duda/manim-portfolio/project/media/videos/scene/480p15/partial_movie_files/CountingScene/624642324_1733944848_2983114836.mp4'
